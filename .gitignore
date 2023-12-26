@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named saved_models
+saved_models/
+
+# ignore ALL files in ANY directory named ipynb_checkpoints
+.ipynb_checkpoints/
